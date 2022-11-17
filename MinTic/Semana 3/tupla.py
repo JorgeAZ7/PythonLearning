@@ -1,0 +1,5 @@
+tupla1=(5,7,8,6)
+largo=len(tupla1)
+mayor=max(tupla1)
+print(largo)
+print(mayor)
